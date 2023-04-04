@@ -1,0 +1,21 @@
+{
+  "name": "childbooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2",
+    "telegraph": "^0.8.22"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
